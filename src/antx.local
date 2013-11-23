@@ -1,0 +1,124 @@
+
+alimama.common.domainName  = alimama.net
+
+app.consume.ump.service.version  = 1.0.0.daily
+
+catserver.register.config.group  = millau.daily
+
+consume.sc.service.version  = 1.0.0.daily
+
+consume.shopcenter.service.version  = 1.0.0.daily
+
+ipm.dateInventory.tair.configID  = ldbcommon-daily
+
+ipm.hotel.client.service.version  = 1.0.0.daily
+
+ipm.inventory.tair.configID     = tmall1-daily
+ipm.inventory.tair.configID2    = mdbcomm-daily
+ipm.inventory.tair.mdb.timeout  = 50
+
+ipm.provider.service.version  = 1.0.0.daily
+
+ipm.trade.inventory.mdb.tair.configid  = mdbcomm-daily
+
+itao.baseInitDataFolder  = D:/home/admin/itao/itaodata
+itao.cacheFolder         = D:/home/admin/itao/cache
+
+itao.common.session.sessionGroup  = daily_new
+
+itao.consume.mc.version  = 1.0.0.daily
+
+itao.diamond.address  = 10.232.102.182,10.232.102.183,10.232.10.23,10.232.12.32
+itao.diamond.pass     = admin
+itao.diamond.port     = 8080
+itao.diamond.user     = admin
+
+itao.domain.name  = itaolocal.daily.taobao.net
+itao.domain.port  = 80
+
+itao.env.type  = 3
+
+itao.favorite.version  = 1.0.0.daily
+
+itao.feed.version  = 1.0.0.daily
+
+itao.hbase.clientPort    = 2181
+itao.hbase.name          = itao
+itao.hbase.quorum        = 10.232.98.74,10.232.98.75,10.232.98.76,10.232.98.77,10.232.98.78
+itao.hbase.znode.parent  = /hbase-rd-test-0.90
+
+itao.itemDetailServer.host  = item.daily.taobao.net
+
+itao.itemImgServer.host  = img01.daily.taobaocdn.net/bao/uploaded/i1/
+
+itao.jingwei.taskNameList-v3  = DAILY_ITAO,ITAO-MKT
+
+itao.loggingCharset  = GBK
+itao.loggingLevel    = warn
+itao.loggingRoot     = D:/home/admin/itao/logs
+
+itao.pagecache.tair.configid      = market2-daily
+itao.pagecache.tair.envKeyPrefix  = local
+itao.pagecache.tair.persistence.configid  = ldbcommon-daily
+
+itao.search.shopitem.path  = /group/taobao-ai/itao/promotion/output_daily/
+
+itao.searchengine.url  = http://kingso-search-test.config-vip.taobao.net:2087/bin/search?
+
+itao.shopcart.version  = 1.0.0.daily
+
+itao.snsImgServer.host  = wsapi.jianghu.daily.taobao.net
+
+itao.standard.asserturl  = assets.daily.taobao.net
+
+itao.tcifAppKey   = e226a473a9b63ca92713fb691a24ca4d
+itao.tcifAppName  = itao
+
+itao.terminator.hdfsuri    = hdfs://10.232.36.131:9000
+itao.terminator.zkaddress  = 10.232.15.46:2181,10.232.36.130:2181
+
+itao.vmcommon.path  = /home/admin/vmcommon
+
+itao_ic_version              = 1.0.0.daily
+itao_shopcart_group_version  = HSF
+itao_tc_version              = 1.0.0.daily
+itao_uic_cache_version       = 1.0.0.daily
+itao_uic_version             = 1.0.0.daily
+
+itemcenter.forest.register.config.version  = daily.cat1
+itemcenter.forest.zk  = zookeeper1-search.config-vip.taobao.net:2182
+
+itemcenter.iss.zk.address.list  = zookeeper1-search.config-vip.taobao.net:2182
+
+itemcenter.itemcache.tair.configserver.address1  = tair.config-vip.taobao.net:5198
+itemcenter.itemcache.tair.configserver.address2  = tair.config-vip.taobao.net:5198
+itemcenter.itemcache.tair.dataId     = item-daily
+itemcenter.itemcache.tair.groupname  = group_1
+
+relationrecommend.provider.recommend.version  = 1.0.0.daily
+
+scsku.provider.service.version  = 1.0.0.daily
+
+scsku.tair.configID  = tmall1-daily
+
+taobao.common.domainName  = daily.taobao.net
+
+taobao.img.domainName  = daily.taobao.net
+
+taobao.login.domainName  = daily.taobao.net
+
+taobaocdn.assets.common.domainName  = assets.daily.taobao.net
+
+taobaocdn.common.domainName  = daily.taobao.net
+
+tcif.hsf.provider.version  = 1.0.0.daily
+
+tfs.appkey  = 50fcd136c1459
+
+tfs.cdn.url.pattern  = http://img04.daily.taobaocdn.net/tfscom/
+
+tfs.webservice.root.server  = 10.232.4.44:3800
+
+tmall.domainName  = daily.tmall.net
+
+wlbplatform.wlbext.consumer.version  = 1.0.0.daily
