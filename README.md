@@ -19,5 +19,5 @@ stresstest: 压力测试
 
   ```
   cd stresstest
-  go run stress.go 16
+  go run stress.go -p 16
   ```
